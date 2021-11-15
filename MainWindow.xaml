@@ -1,0 +1,15 @@
+﻿<Window x:Class="Screenshots.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Screenshots"
+        mc:Ignorable="d"
+        Title="Screenshots" Height="200" Width="200">
+    <Grid>
+        
+        <Button Content="Open Link" HorizontalAlignment="Left" Margin="45,50,0,0" VerticalAlignment="Top" Width="100" Height="50" Click="Button_Click"/>
+        <Label Content="Click the button if you dare " HorizontalAlignment="Left" Margin="19,10,0,0" VerticalAlignment="Top" Width="155"/>
+
+    </Grid>
+</Window>

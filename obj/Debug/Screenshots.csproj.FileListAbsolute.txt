@@ -1,0 +1,14 @@
+C:\Users\raTex\source\repos\Screenshots\bin\Debug\Screenshots.exe.config
+C:\Users\raTex\source\repos\Screenshots\bin\Debug\Screenshots.exe
+C:\Users\raTex\source\repos\Screenshots\bin\Debug\Screenshots.pdb
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.csprojAssemblyReference.cache
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\MainWindow.g.cs
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\App.g.cs
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots_MarkupCompile.cache
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots_MarkupCompile.lref
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\MainWindow.baml
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.g.resources
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.Properties.Resources.resources
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.csproj.GenerateResource.cache
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.exe
+C:\Users\raTex\source\repos\Screenshots\obj\Debug\Screenshots.pdb
